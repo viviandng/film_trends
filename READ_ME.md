@@ -8,7 +8,7 @@ images: folder for visualizations
 MainNotebook.ipynb: codes for data processing and visualization
 Presenation.pdf: project presentation slides
     
-![Marvel.webp](https://raw.githubusercontent.com/viviandng/flatiron-project-1/master/zipped_Data/Marvel%20Image.webp)
+![Marvel.webp](https://raw.githubusercontent.com/viviandng/flatiron-project-1/master/images/Marvel%20Image.webp)
 
 ### Prompt:
 In recent years, the executives at Microsoft have noticed many large tech firms have begun creating original video content. Not wanting to miss out on a lucrative business opportunity, they have decided to get in on the action. They plan to create a new movie studio, but unfortunately don’t know anything about making movies. 
@@ -97,19 +97,19 @@ We created 5 figures to show our findings.
 Tool: NumPy, Matplotlib (pyplot), Statistic (mean)
 
 Figure 1: We created a bar graph to show the different movie genres and their mean profit. Mean profit is the profit of all the movies in that genre divided by the number of movies in that genre. From the graph, we can see that the highest bar belongs to action, adventure, sci-fi. This tells us that on average, movies that belong in the genre (action, adventure, sci-fi) generate more profit than movies in the other genres. 
-![Bar_Chart.png](./zippedData/Bar_Chart.png)
+![Bar_Chart.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Bar_Chart.png)
 
 Figure 2: We created a scatter plot for runtime in minutes vs. profits. We wanted to see if there was a relation between a movie’s length and its profit. Our plot shows that there is a moderate positive correlation between the two variables. As we can see below, as runtime increases, profit also increases. However, this is not a strong correlation with an r value of 0.57. More data and further research is needed to see if the rising trend will continue or if profit will decrease when runtime becomes too long. We also want to see a stronger correlation (r >0.7) before suggesting that increasing a movie’s runtime will also increase the profit it produces. The top 10 profit points are between runtime 120 and 160 minutes. 
-![Run_Time.png](./zippedData/Runtime_vs_Profit.png)
+![Run_Time.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Runtime_vs_Profit.png)
 
 Figure 3: We created a whisker plot to show the distribution of runtime. The plot suggested that 50% of movies have a runtime between 122 - 140 minutes. 
-![Whisker_Runtime.png](./zippedData/Box_Whisker_Runtime.png)
+![Whisker_Runtime.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Box_Whisker_Runtime.png)
 
 Figure 4: We created a scatter plot for production budget and profit. We wanted to see if there was a relation between spending more money producing a movie and its profit. Our plot shows that there is a moderate positive correlation between the two variables with r = 0.4. Similar to our runtime vs profit scatter plot, we will need more data and further research to establish the relationship between production budget and profit. The two outliers on the right show that a high production budget may generate a very high profit or cause a huge loss. Ignoring the outliers on the right, we see that the top 10 highest profit producing movies have a production budget between 140 - 200 hundreds of million USD.
-![Budget_Profit.png](./zippedData/Budget_vs_Profit.png)
+![Budget_Profit.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Budget_vs_Profit.png)
 
 Figure 5: We created a whisker plot to show the distribution of production budget. The plot suggested that 50% of movies have a budget distribution between 140 - 200 hundreds of millions USD. 
-![Whisker_Budget_Profit.png](./zippedData/Box_Whisker.png)
+![Whisker_Budget_Profit.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Box_Whisker.png)
 
 
 ### Business Insight
