@@ -1,14 +1,16 @@
 # Film Industry Trends
 
 Team: Joseph McHugh & Vivian Dang
-
-### Items:
-- zipped_Data: folder for movie budget & title basics csv <br/>
-- images: folder for visualizations <br/>
-- MainNotebook.ipynb: codes for data processing and visualization <br/> 
-- Presenation.pdf: project presentation slides <br/>
     
 ![Marvel.webp](https://raw.githubusercontent.com/viviandng/flatiron-project-1/master/images/Marvel%20Image.webp)
+
+
+### Items:
+- Zipped_Data: folder for movie budget & title basics csv
+- images: folder for visualizations
+- MainNotebook.ipynb: codes for data processing and visualization
+- Presenation.pdf: project presentation slides
+
 
 ### Prompt:
 In recent years, the executives at Microsoft have noticed many large tech firms have begun creating original video content. Not wanting to miss out on a lucrative business opportunity, they have decided to get in on the action. They plan to create a new movie studio, but unfortunately don’t know anything about making movies. 
