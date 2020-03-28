@@ -3,10 +3,10 @@
 Team: Joseph McHugh & Vivian Dang
 
 ### Items:
-zipped_Data: folder for movie budget & title basics csv
-images: folder for visualizations
-MainNotebook.ipynb: codes for data processing and visualization
-Presenation.pdf: project presentation slides <br/>
+- zipped_Data: folder for movie budget & title basics csv <br/>
+- images: folder for visualizations <br/>
+- MainNotebook.ipynb: codes for data processing and visualization <br/> 
+- Presenation.pdf: project presentation slides <br/>
     
 ![Marvel.webp](https://raw.githubusercontent.com/viviandng/flatiron-project-1/master/images/Marvel%20Image.webp)
 
