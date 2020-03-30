@@ -99,7 +99,7 @@ We created 5 figures to show our findings.
 Tool: NumPy, Matplotlib (pyplot), Statistic (mean)
 
 Figure 1: We created a bar graph to show the different movie genres and their mean profit. Mean profit is the profit of all the movies in that genre divided by the number of movies in that genre. From the graph, we can see that the highest bar belongs to action, adventure, sci-fi. This tells us that on average, movies that belong in the genre (action, adventure, sci-fi) generate more profit than movies in the other genres. <br/>
-![Bar_Chart.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Bar_Chart.png)
+![Bar_Chart.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/meanprofit_genre.png)
 
 Figure 2: We created a scatter plot for runtime in minutes vs. profits. We wanted to see if there was a relation between a movie’s length and its profit. Our plot shows that there is a moderate positive correlation between the two variables. As we can see below, as runtime increases, profit also increases. However, this is not a strong correlation with an r value of 0.57. More data and further research is needed to see if the rising trend will continue or if profit will decrease when runtime becomes too long. We also want to see a stronger correlation (r >0.7) before suggesting that increasing a movie’s runtime will also increase the profit it produces. The top 10 profit points are between runtime 120 and 160 minutes. <br/>
 ![Run_Time.png](https://github.com/viviandng/flatiron-project-1/blob/master/images/Runtime_vs_Profit.png)
