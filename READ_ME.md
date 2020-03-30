@@ -6,7 +6,7 @@ Team: Joseph McHugh & Vivian Dang
 
 
 ### Items:
-- Zipped_Data: folder for movie budget & title basics csv
+- csv_data: folder for movie budget & title basics csv
 - images: folder for visualizations
 - MainNotebook.ipynb: codes for data processing and visualization
 - Presenation.pdf: project presentation slides
@@ -27,7 +27,7 @@ To rectify this deficiency, they have hired a crack data-science duo to help the
 
 ### Data Collection
 
-Here are the two sets of data files that were used: https://github.com/viviandng/flatiron-project-1/tree/master/zippedData
+Here are the two sets of data files that were used: https://github.com/viviandng/flatiron-project-1/tree/master/csv_data
 
 
 #### Data description:
